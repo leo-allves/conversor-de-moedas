@@ -1,5 +1,9 @@
-# Conversor de Moedas
+# Conversor de Moedas Desafio Imersão Dev Alura
  ## Conversão de moedas, Layout com Html5 Css3 e interação com JS
+  ### O layout é também os códigos e estrutura lógicas estão diferente, fiz com outras implementações.
+  ### Foi dado apaenas operaão unica de + , foi implementado condicional, 
+  ### Comando de pergunta ao usuario e resposta pelo pop-up , foi implemantado um quadro 
+  ### Usando outra função para impressão e interação dentro dele.
  
  
 Conversão de reias para Dólar Americano, Dólar canadense , Dólar australiano , em Euro e Libra
