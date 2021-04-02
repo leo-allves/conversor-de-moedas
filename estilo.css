@@ -1,0 +1,84 @@
+
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: auto;
+  background-color: #d4caca;
+}
+
+.container {
+  text-align: center;
+  background-color: rgba(7, 7, 7, 0.692);
+  border-radius:1%;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  height: auto;
+}
+
+.page-title {
+    color: #ffffff;
+    font-family: -apple-system, 
+    BlinkMacSystemFont, 'Segoe UI', 
+    Roboto, Oxygen, Ubuntu, Cantarell, 
+    'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0 0 25px;
+}
+
+.page-subtitle {
+    font-family: -apple-system, 
+    BlinkMacSystemFont, 'Segoe UI', 
+    Roboto, Oxygen, Ubuntu, Cantarell, 
+    'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #ffffff;
+    margin: 0 0 10px;
+}
+.img-moedas img{
+    padding-top: 30px;
+    width: 100px;
+
+}
+
+.page-logo {
+    padding-top:20px;
+    padding-bottom: 20px;
+    width: 200px;
+    
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+
+}
+.quadro-container{
+    width:70%;
+    height: 180px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    margin: auto;
+    background-color:rgba(95, 94, 81, 0.068);
+    border-radius:5px;
+    border: 3px solid rgb(65, 63, 60);
+}
+.quadro-container h1{
+    justify-content: center;
+    text-align: center;
+    color: #ffffff;
+
+}
+.quadro-fundo{
+    margin: auto; /*centralizando*/
+    width:95%;
+    height: 100px;
+    padding-top:20px;
+    background-color:rgba(229, 230, 213, 0.856);
+    border-radius:5px;
+    border: 3px solid rgb(92, 90, 85);
+}
+#fundo{
+    font-size:15px;
+    font-family: -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+    'Open Sans', 'Helvetica Neue', sans-serif;
+}

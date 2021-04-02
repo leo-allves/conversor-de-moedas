@@ -1,0 +1,28 @@
+#imersaodev #alura
+
+//converter para as quatro tipos de moedas mais conhecidas
+//dólarAmericano, dólarCanadense, Libra, Euro e Real 
+//desafio de replicar essa atividade na página não no pop-up
+//conversor de anos lux pra kilometro com um fundo do inter istelar
+
+
+
+//====================================================//
+//==================DESCRIÇÂO========================//
+//TRANSFOMAR O VALOR DE UM PLAYSTASHION NO VALOR EM DÓLAR EM REAL//
+
+
+var valorEmDolarTexto = prompt("Qual o valor em dolar que você quer converter? RS$")
+
+var valorEmDolarNumero = parseFloat(valorEmDolarTexto)
+
+var valorEmReal = valorEmDolarNumero * 5.50
+var valorEmRealFixado = valorEmReal.toFixed(2)
+
+alert("O valor de RS$"+valorEmDolarNumero+" é : R$"+valorEmRealFixado+" em reais.")
+
+//Revisão
+//variáveis var int - float - string
+//alert - parseInt - parseFloat - prompt
+//operações + somar * multiplicar
+// comentário final
