@@ -29,7 +29,9 @@ if (moeda == 1) {
     var real = libra * 6.66
     var realConv = real.toFixed(2)
     document.getElementById("fundo").innerHTML = "<h2> O valor em reias é R$" + realConv + "</h2>";
-}
+} else {
+    document.getElementById("fundo").innerHTML = "<h2> Opção inválida!</h2>";
+} 
 
 //Revisão
 //variáveis var int - float - string
